@@ -1,0 +1,83 @@
+{"intents": [
+        {"tag": "what",
+         "responses": ["Hey"],
+         "patterns": ["Hello"],
+         "context_set": ""
+        },
+        {"tag": "Morning",
+         "responses": ["Morning"],
+         "patterns": ["Good Morning"],
+         "context_set": ""
+        },
+        {"tag": "Night",
+         "responses": ["Night"],
+         "patterns": ["night"],
+         "context_set": ""
+        },
+        {"tag": "Gym",
+         "responses": ["Ima check the time, but Polos"],
+         "patterns": ["6pm at Polos, right?"],
+         "context_set": ""
+        },
+        {"tag": "Busy",
+         "responses": ["kind of"],
+         "patterns": ["are you busy"],
+         "context_set": ""
+        },
+        {"tag": "Activity",
+         "responses": ["I am working on the usual, hbu"],
+         "patterns": ["What are you doing"],
+         "context_set": ""
+        },
+        {"tag": "Basic Responses",
+         "responses": ["Cool cool"],
+         "patterns": ["I am working"],
+         "context_set": ""
+        },
+        {"tag": "Concerned",
+         "responses": ["im fine how are you"],
+         "patterns": ["how are you?"],
+         "context_set": ""
+        },
+        {"tag": "How",
+         "responses": ["i am fine, how about you"],
+         "patterns": ["are you ok"],
+         "context_set": ""
+        },
+        {"tag": "",
+         "responses": ["whats wrong"],
+         "patterns": ["Excuse me"],
+         "context_set": ""
+        },
+        {"tag": "Food",
+         "responses": ["food"],
+         "patterns": ["What did you eat"],
+         "context_set": ""
+        },
+        {"tag": "Bye",
+         "responses": ["bye"],
+         "patterns": ["bye"],
+         "context_set": ""
+        },
+        {"tag": "Stuff",
+         "responses": ["hard to explain"],
+         "patterns": ["what kind of stuff"],
+         "context_set": ""
+        },
+        {"tag": "Excuse",
+         "responses": ["uhhh subject change"],
+         "patterns": ["excuse me"],
+         "context_set": ""
+        },
+        {"tag": "Fine",
+         "responses": ["Ok ok thats good"],
+         "patterns": ["im fine"],
+         "context_set": ""
+        },
+        {"tag": "Want",
+         "responses": ["Sure, but after I finish all my work"],
+         "patterns": ["do you want to eat"],
+         "context_set": ""
+        }
+    ]
+}
