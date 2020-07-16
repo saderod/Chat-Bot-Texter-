@@ -1,0 +1,183 @@
+{"intents": [
+        {"tag": "hello",
+         "responses": ["how are you feeling"],
+         "patterns": ["hey"],
+         "context_set": ""
+        },
+        {"tag": "fine",
+         "responses": ["my stomach feels weird", "i just have to eat alot its annoying", "what food do you like"],
+         "patterns": ["fine lol wbu"],
+         "context_set": ""
+        },
+        {"tag": "Ami",
+         "responses": ["what kind"],
+         "patterns": ["pasta"],
+         "context_set": ""
+        },
+        {"tag": "wonder",
+         "responses": ["i like any sauce", "where is your mom from again"],
+         "patterns": ["fettuccine alfredo wbu"],
+         "context_set": ""
+        },
+        {"tag": "Food",
+         "responses": ["oooh you say it so weird"],
+         "patterns": ["senegal"],
+         "context_set": ""
+        },
+        {"tag": "japanese",
+         "responses": ["it sounds like japanese"],
+         "patterns": ["i said it normally"],
+         "context_set": ""
+        },
+        {"tag": "Basic Responses",
+         "responses": ["oh that makes more sense", "favorite tv shows"],
+         "patterns": ["I said senegalese lol"],
+         "context_set": ""
+        },
+        {"tag": "Concerned",
+         "responses": ["you enjoy death huh"],
+         "patterns": ["blood and water", "how to get awa with murder", "never have i ever"],
+         "context_set": ""
+        },
+        {"tag": "guess",
+         "responses": ["lolll i guess"],
+         "patterns": ["fave anime"],
+         "context_set": ""
+        },
+        {"tag": "anime",
+         "responses": [".....thats basic"],
+         "patterns": ["i don't really have one but my fave anime movie is spirited away"],
+         "context_set": ""
+        },
+        {"tag": "well",
+         "responses": ["i understand now what you like"],
+         "patterns": ["well i also like kiki's delivery service and your name i'll say fave anime is revolutionary girl uthena and princess tutu boom i'm a child"],
+         "context_set": ""
+        },
+        {"tag": "Ok",
+         "responses": ["its okay, have you been out of state"],
+         "patterns": ["....."],
+         "context_set": ""
+        },
+        {"tag": "Stuff",
+         "responses": ["its okay", "have you been out of state"],
+         "patterns": ["what kind of stuff"],
+         "context_set": ""
+        },
+        {"tag": "went",
+         "responses": ["oh how is senegal"],
+         "patterns": ["yeah i went to georgia, ny and senegal"],
+         "context_set": ""
+        },
+        {"tag": "Fine",
+         "responses": ["Oh snap how did she come here"],
+         "patterns": ["its cool my mom is from a village so its more rural"],
+         "context_set": ""
+        },
+        {"tag": "met",
+         "responses": ["wait is he american"],
+         "patterns": ["she met my father when he was studying abroad"],
+         "context_set": ""
+        },
+        {"tag": "american",
+         "responses": ["he brought her to america?"],
+         "patterns": ["yeah he's Haitian but came to America when he was young"],
+         "context_set": ""
+        },
+        {"tag": "yeah",
+         "responses": ["oh she must be pretty"],
+         "patterns": ["yeah"],
+         "context_set": ""
+        },
+        {"tag": "she",
+         "responses": ["are you confident"],
+         "patterns": ["she is lol but my father is meh"],
+         "context_set": ""
+        },
+        {"tag": "not",
+         "responses": ["why not"],
+         "patterns": ["not really lol"],
+         "context_set": ""
+        },
+        {"tag": "self",
+         "responses": ["wait why"],
+         "patterns": ["my self esteem dropped when i got into college"],
+         "context_set": ""
+        },
+        {"tag": "question",
+         "responses": ["why did it go down"],
+         "patterns": ["??"],
+         "context_set": ""
+        },
+        {"tag": "skin",
+         "responses": ["oh damn, cuz i fucked up my skin, i forgot what we were talking about lol"],
+         "patterns": ["haha how? looks fine to me"],
+         "context_set": ""
+        },
+        {"tag": "trash",
+         "responses": ["hmm nah you not, want to learn checkers"],
+         "patterns": ["nah its trash"],
+         "context_set": ""
+        },
+        {"tag": "really",
+         "responses": ["haha what games do you like"],
+         "patterns": ["not really"],
+         "context_set": ""
+        },
+        {"tag": "know",
+         "responses": ["haha like 2 player"],
+         "patterns": ["you know"],
+         "context_set": ""
+        },
+        {"tag": "slaps",
+         "responses": ["where is it"],
+         "patterns": ["fireboy and watergirl oooo that shit slapsss"],
+         "context_set": ""
+        },
+        {"tag": "where",
+         "responses": ["haha sure, tomorrow"],
+         "patterns": ["cool math"],
+         "context_set": ""
+        },
+        {"tag": "tomorrow",
+         "responses": ["we can try"],
+         "patterns": ["tomorrow what?"],
+         "context_set": ""
+        },
+        {"tag": "confused",
+         "responses": ["haha game"],
+         "patterns": ["try what im confused"],
+         "context_set": ""
+        },
+        {"tag": "nah",
+         "responses": ["haha ok ok"],
+         "patterns": ["nah im good, its actually hella difficult cuz we used to play on the same laptop"],
+         "context_set": ""
+        },
+        {"tag": "hey",
+         "responses": ["how are you feeling"],
+         "patterns": ["hey"],
+         "context_set": ""
+        },
+        {"tag": "feel",
+         "responses": ["im stressed but its because the brain i made isnt working"],
+         "patterns": ["i'm fine wbu"],
+         "context_set": ""
+        },
+        {"tag": "hope",
+         "responses": ["me too, any music recommendations"],
+         "patterns": ["well i hope you're able to be less stressed"],
+         "context_set": ""
+        },
+        {"tag": "like",
+         "responses": ["i like rap, hip hop, trap, future bass and chill step"],
+         "patterns": ["i like Teyana Taylor's new album but what kinda music do you like"],
+         "context_set": ""
+        },
+        {"tag": "",
+         "responses": [""],
+         "patterns": [""],
+         "context_set": ""
+        }
+    ]
+}
